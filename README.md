@@ -1,2 +1,21 @@
-# responsive-gallery-layout
-A responsive image gallery built using HTML5 and CSS Grid with mobile-first design and media queries.
+# Responsive Gallery Layout
+
+A responsive image gallery built with **HTML** and **CSS Grid** using a mobile-first approach.
+
+## 🚀 Live Demo
+
+👉 https://dishantsuthar0101.github.io/responsive-gallery-layout/
+
+## ✨ Features
+
+- Responsive CSS Grid
+- Mobile-first design
+- Media Queries
+- Grid Template Areas
+- Lazy Loading Images
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- CSS Grid
