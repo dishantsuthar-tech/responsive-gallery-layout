@@ -4,7 +4,7 @@ A responsive image gallery built with **HTML** and **CSS Grid** using a mobile-f
 
 ## 🚀 Live Demo
 
-👉 https://dishantsuthar0101.github.io/responsive-gallery-layout/
+👉  https://dishantsuthar-tech.github.io/responsive-gallery-layout/
 
 ## ✨ Features
 
